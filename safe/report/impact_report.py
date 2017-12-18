@@ -363,7 +363,7 @@ class ImpactReport(object):
             'date': date,
             'time': time,
             'safe-version': version,  # deprecated
-            'disclaimer': self.disclaimer,
+            'disclaimer': 'Fluentgrid and the individual software developers of Fluentgrid take no responsibility for the correctness of outputs from this tool or decisions derived as a consequence.',
             # These added in 3.2
             'version-title': tr('Version'),
             'inasafe-version': version,

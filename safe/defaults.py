@@ -398,7 +398,7 @@ def black_inasafe_logo_path():
 
     .. versionadded:: 3.2
     """
-    path = resources_path('img', 'logos', 'inasafe-logo-url.svg')
+    path = resources_path('img', 'logos', 'fluentgrid.png')
     return path
 
 
@@ -407,7 +407,7 @@ def white_inasafe_logo_path():
 
     .. versionadded:: 3.2
     """
-    path = resources_path('img', 'logos', 'inasafe-logo-url-white.svg')
+    path = resources_path('img', 'logos', 'fluentgrid.png')
     return path
 
 

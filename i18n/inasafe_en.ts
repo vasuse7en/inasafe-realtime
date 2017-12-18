@@ -2845,7 +2845,7 @@
     </message>
     <message>
         <location filename="defaults.py" line="387"/>
-        <source>InaSAFE has been jointly developed by the Indonesian Government-BNPB, the Australian Government, the World Bank-GFDRR and independent contributors. These agencies and the individual software developers of InaSAFE take no responsibility for the correctness of outputs from InaSAFE or decisions derived as a consequence.</source>
+        <source>Fluentgrid and the individual software developers of Fluentgrid take no responsibility for the correctness of outputs from this tool or decisions derived as a consequence.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
