@@ -15,22 +15,6 @@
     <prop k="style" v="solid"/>
    </layer>
   </symbol>
-  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="InaSAFE [inasafe-version]" htmlState="0" halign="1">
-   <LabelFont description="Arial,8,-1,5,75,0,0,0,0,0"/>
-   <FontColor red="0" blue="0" green="0"/>
-   <ComposerItem pagey="256.788" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="124.553" y="256.788" visibility="1" zValue="25" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="48.3529" outlineWidth="0.3" excludeFromExports="0" uuid="{03ea309b-8e90-439a-9373-6cbe3c2243d2}" height="5.11501" itemRotation="0" frame="false" pagex="124.553">
-    <FrameColor alpha="255" red="0" blue="0" green="0"/>
-    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-   </ComposerItem>
-  </ComposerLabel>
-  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="[version-title]" htmlState="0" halign="2">
-   <LabelFont description="Arial,8,-1,5,75,0,0,0,0,0"/>
-   <FontColor red="0" blue="0" green="0"/>
-   <ComposerItem pagey="256.788" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="109.994" y="256.788" visibility="1" zValue="24" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="12.1445" outlineWidth="0.3" excludeFromExports="0" uuid="{b6fe6029-512f-431f-bb0f-e074076620cc}" height="4.98731" itemRotation="0" frame="false" pagex="109.994">
-    <FrameColor alpha="255" red="0" blue="0" green="0"/>
-    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-   </ComposerItem>
-  </ComposerLabel>
   <ComposerLegend symbolWidth="7" title="" boxSpace="2" splitLayer="0" equalColumnWidth="0" map="0" titleAlignment="1" symbolHeight="4" wmsLegendHeight="25" wrapChar="" fontColor="#000000" columnSpace="2" wmsLegendWidth="50" columnCount="1">
    <styles>
     <style marginBottom="2" name="title" font="Cantarell,16,-1,5,50,0,0,0,0,0"/>
@@ -168,13 +152,6 @@
     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
    </ComposerItem>
   </ComposerShape>
-  <ComposerPicture resizeMode="0" pictureRotation="0" pictureWidth="27.7488" file="." pictureHeight="27.919" mapId="-1" anchorPoint="7">
-   <ComposerItem pagey="228.793" page="1" id="organisation-logo" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="175.235" y="228.793" visibility="1" zValue="10" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="27.7488" outlineWidth="0.3" excludeFromExports="0" uuid="{e3398b0d-d17e-4f11-8b11-42f001c36bb6}" height="32.4432" itemRotation="0" frame="false" pagex="175.235">
-    <FrameColor alpha="255" red="0" blue="0" green="0"/>
-    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
-    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
-   </ComposerItem>
-  </ComposerPicture>
   <ComposerMap mapRotation="0" keepLayerSet="false" id="0" previewMode="Rectangle" drawCanvasItems="true">
    <Extent ymin="-0.97168809999999661" xmin="100.34314159999827609" ymax="-0.92260120000000478" xmax="100.39222849999826792"/>
    <LayerSet/>
